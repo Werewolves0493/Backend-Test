@@ -88,3 +88,20 @@ To introduce static typing and enhance the developer experience, transitioning t
 ### Rationale
 
 TypeScript provides static typing, reducing the likelihood of runtime errors and improving code readability. The use of interfaces enhances documentation and provides clear type definitions.
+
+---
+
+# To start the dashboard, follow the below steps:
+
+## **Direact to the task directory**
+    ```bash
+    cd task
+    cd webserver-typescript
+
+1. **Install Dependencies:**
+   ```bash
+   npm install
+2. **Start the Project:**
+   ```bash
+   npm start
+
